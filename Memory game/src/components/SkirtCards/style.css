@@ -1,0 +1,59 @@
+img {
+    height: 90px;
+    width: 90px;
+}
+
+.h4-for-skirts {
+    text-align: center;
+    color: green;
+    border: solid #00d6b2 3px;
+    border-radius: 5px;
+}
+
+.board {
+    height: 100vh;
+    width: 90vw;
+    background: white;
+}
+
+.casual-border {
+    border-radius: 5px;
+    border: solid black 3px;
+}
+
+.red-border {
+    border-radius: 5px;
+    border: solid red 3px;
+}
+
+.options-before-start {
+    display: grid;
+    grid-gap: 40px;
+    grid-row-gap: 40px;
+    grid-template-columns: 95px 90px;
+    justify-content: left;
+}
+
+.options-after-start {
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 95px 95px;
+    justify-content: left;
+    text-align: center;
+}
+
+.button-for-new-game {
+    position:absolute;
+    top:10vh;
+    right:10vw;
+}
+
+.difficulty-variants {
+    text-align: center;
+}
+
+.skirt-cards {
+}
+
+
+

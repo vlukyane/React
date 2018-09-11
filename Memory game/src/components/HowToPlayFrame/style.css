@@ -1,0 +1,16 @@
+.how-to-play-window {
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    pointer-events:none;
+}
+
+
+.how-to-play {
+    text-align: center;
+}
+
+.to-play {
+    float: left;
+    margin-top: 35vh;
+}

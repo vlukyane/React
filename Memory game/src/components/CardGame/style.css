@@ -1,0 +1,27 @@
+
+.card span {
+    line-height: 50px;
+}
+
+.visible-card {
+    text-align: center;
+    visibility: visible;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.invisible-card {
+    text-align: center;
+    visibility: hidden;
+    width: 200px;
+    height: 200px;
+}
+
+.game-states {
+    margin-left: 25vw;
+}
+
+.button-for-restart-game {
+    margin-top: 20px;
+}
